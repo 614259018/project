@@ -23,5 +23,4 @@ class History_section extends CI_Controller {
 		$get['a'] = $data;
 		$this->load->view('view_section',$get);
 	}
-
 }
